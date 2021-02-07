@@ -133,3 +133,7 @@ dmypy.json
 
 # Data Folder -- Download seperate
 data
+
+#Remove model created files
+bestparams.h5
+cnn.pth
